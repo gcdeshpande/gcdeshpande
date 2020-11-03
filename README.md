@@ -8,7 +8,7 @@ I hold M.Tech. in Computer Science and Engineering from Visvesvaraya Technologic
 👯 I’m looking to collaborate on my research projects and ideas\
 🤔 I’m looking for help with organize technical events under PyData Belagavi and OWASP chapters\
 💬 Ask me about Web Programming, Cyber Security, Cyber Forensics, Artificial Intelligence, Python, Julia, Hackathons, Mentorship  \
-📫 How to reach me: gcdeshpande.github.io\
+📫 How to reach me: [gcdeshpande.github.io](https://gcdeshpande.github.io)\
 :email: Contact me for Information Technology consultation, training and talks\
 😄 Pronouns: he/him\
 ⚡ Fun fact: Love to learn, experiment and share
