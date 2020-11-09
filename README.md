@@ -4,8 +4,10 @@ I hold M.Tech. in Computer Science and Engineering from Visvesvaraya Technologic
 
 🔭 I’m currently working on research projects supported by Google Cloud and DigitalOcean\
 :speaking_head: I’m currently teaching Artificial Intelligence and Web Programming\
+
 🌱 I’m currently learning Robotic Process Automation using UiPath, GitHub and GitLab\
 👯 I’m looking to collaborate on my research projects and ideas\
+:rainbow: I'm currently working as organizing chair for BelPy 2021 Online\
 🤔 I’m looking for help with organize technical events under PyData Belagavi and OWASP chapters\
 💬 Ask me about Web Programming, Cyber Security, Cyber Forensics, Artificial Intelligence, Python, Julia, Hackathons, Mentorship  \
 📫 How to reach me: [gcdeshpande.github.io](https://gcdeshpande.github.io)\
